@@ -1,0 +1,1 @@
+https://blog.openreplay.com/a-complete-guide-to-nextjs-plus-mongodb/
